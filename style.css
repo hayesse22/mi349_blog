@@ -70,6 +70,10 @@ p {
     text-align: center;
 }
 
+#me {
+    padding-left: 35px;
+}
+
 .about {
     border-bottom: 2px dotted #ccc;
     border-top: 2px dotted #ccc;
