@@ -62,17 +62,16 @@ p {
     margin: 0;
 }
 
-#about {
-    background-color: #dbe9f8
-}
+
 
 #contact {
-    background-color: #dbe9f8
+    background-color: #e1ecf7
 }
 
 .about {
     border-bottom: 2px dotted #ccc;
     border-top: 2px dotted #ccc;
+    background-color: #e1ecf7;
 }
 
 
