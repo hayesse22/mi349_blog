@@ -5,7 +5,8 @@ a.active {
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    
+    margin: 35px;
+    color: #242424;
 }
 
 h1 {
