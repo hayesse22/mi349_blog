@@ -3,6 +3,8 @@ a.active {
     font-weight: bold;
 }
 
+/* Main stuff */
+
 html {
     background: #e3e3e3;
 }
@@ -51,6 +53,9 @@ p {
     line-height: 1.4em;
 }
 
+
+/* Blog stuff */
+
 #blog {
     border-top: 2px dotted #ccc;
     background-color: #e1ecf7
@@ -62,9 +67,8 @@ p {
     margin: 0;
 }
 
-#contact {
-    background-color: #e1ecf7
-}
+
+/* About Page */
 
 .aboutme {
     text-align: center;
@@ -80,3 +84,8 @@ p {
     background-color: #e1ecf7;
 }
 
+/* Contact Page */
+
+#contact {
+    background-color: #e1ecf7
+}
