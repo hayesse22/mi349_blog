@@ -72,6 +72,7 @@ p {
 
 .about {
     border-bottom: 2px dotted #ccc;
+    border-top: 2px dotted #ccc;
 }
 
 
