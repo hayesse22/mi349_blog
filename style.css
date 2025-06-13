@@ -8,9 +8,9 @@ html {
 }
 
 header {
-    background-color: #9bc9f7;
+    background-color: #b8dbff;
     padding: 1rem 2rem;
-    position: sticky;
+    position: relative;
     top: 0;
     z-index: 1000;
 }
