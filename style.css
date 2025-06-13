@@ -66,8 +66,8 @@ p {
     background-color: #e1ecf7
 }
 
-#aboutme {
-    margin: auto;
+.aboutme {
+    text-align: center;
 }
 
 .about {
