@@ -46,6 +46,7 @@ p {
 
 #blog {
     border-top: 2px dotted #ccc;
+    background-color: rgb(206, 206, 248);
 }
 
 .blogpost {
