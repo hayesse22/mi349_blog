@@ -71,7 +71,7 @@ p {
 }
 
 .about {
-    padding: 35px;
+    border-bottom: 2px dotted #ccc;
 }
 
 
