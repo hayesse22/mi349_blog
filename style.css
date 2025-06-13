@@ -58,4 +58,7 @@ p {
 .blogpost {
     border-bottom: 2px dotted #ccc;
     padding: 35px;
+    margin: 0;
 }
+
+
