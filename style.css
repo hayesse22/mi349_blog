@@ -26,9 +26,9 @@ p {
 }
 
 #blog {
-    border-top: 1px dotted #ccc;
+    border-top: 2px dotted #ccc;
 }
 
 .blogpost {
-
+    border-bottom: 2px dotted #ccc;
 }
