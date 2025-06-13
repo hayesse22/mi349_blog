@@ -47,9 +47,9 @@ p {
 #blog {
     border-top: 2px dotted #ccc;
     background-color: #d4e7fa
-    
 }
 
 .blogpost {
     border-bottom: 2px dotted #ccc;
+    padding: 35px;
 }
