@@ -78,7 +78,13 @@ p {
     max-width: 1200px;
 }
 
+table {
+    margin: 1rem;
+}
 
+th, td {
+    border: 1px solid #ccc;
+}
 
 .blogpost {
     padding: 35px;
