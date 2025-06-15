@@ -64,8 +64,9 @@ p {
 /* Blog stuff */
 
 #blog {
-    border-top: 5px dotted #ccc;
-    background-color: #e1ecf7
+    border-top: 4px dotted #ccc;
+    background-color: #e1ecf7;
+    border-bottom: 4px dotted #ccc;
 }
 
 #blog {
@@ -110,5 +111,11 @@ p {
 /* Contact Page */
 
 #contact {
-    background-color: #e1ecf7
+    background-color: #e1ecf7;
+    margin: 2rem auto;
+    padding: 1rem;
+    border-radius: 10px;
+    max-width: 1200px;
+    border-bottom: 4px dotted #ccc;
+    border-top: 4px dotted #ccc;
 }
