@@ -63,6 +63,10 @@ p {
 
 #blog {
     display: flex;
+    margin: 2rem auto;
+    padding: 1rem;
+    border-radius: 10px;
+    max-width: 1200px;
 }
 
 .blogpost {
