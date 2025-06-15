@@ -91,6 +91,7 @@ p {
 .aboutme {
     text-align: center;
     padding: 35px;
+    margin: 0;
 }
 
 #me {
