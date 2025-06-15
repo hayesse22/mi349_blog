@@ -20,6 +20,10 @@ header {
     max-width: 1200px;
 }
 
+#header {
+    right: 20px;
+}
+
 nav a {
     margin-right: 1rem;
     font-weight: bold;
