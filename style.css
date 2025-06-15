@@ -67,15 +67,14 @@ p {
     border-top: 4px dotted #ccc;
     background-color: #e1ecf7;
     border-bottom: 4px dotted #ccc;
-}
-
-#blog {
     display: flex;
     margin: 2rem auto;
     padding: 1rem;
     border-radius: 10px;
     max-width: 1200px;
 }
+
+
 
 .blogpost {
     padding: 35px;
