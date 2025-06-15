@@ -61,6 +61,10 @@ p {
     background-color: #e1ecf7
 }
 
+#blog {
+    display: flex;
+}
+
 .blogpost {
     border-bottom: 2px dotted #ccc;
     padding: 35px;
