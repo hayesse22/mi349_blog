@@ -97,8 +97,8 @@ p {
 }
 
 .about {
-    border-bottom: 2px dotted #ccc;
-    border-top: 2px dotted #ccc;
+    border-bottom: 4px dotted #ccc;
+    border-top: 4px dotted #ccc;
     background-color: #e1ecf7;
     margin: 2rem auto;
     padding: 1rem;
