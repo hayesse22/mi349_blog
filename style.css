@@ -194,6 +194,10 @@ input[type="text"], input[type="email"] {
 }
 
 form button {
-    margin-left: -175px;
+    margin-left: -150px;
     margin-bottom: -35px;
+}
+
+form button:hover {
+    background-color: rgb(202, 202, 202);
 }
