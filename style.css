@@ -187,3 +187,7 @@ form textarea {
     margin-bottom: 14px;
     border-radius: 3px;
 }
+
+#reason {
+    border-radius: 3px;
+}
