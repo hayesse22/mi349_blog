@@ -157,7 +157,7 @@ figcaption {
 form {
     margin-top: 1rem;
     padding: 35px;
-    padding-top: 0;
+    padding-top: 15px;
 }
 
 form label {
