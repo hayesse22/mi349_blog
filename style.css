@@ -192,3 +192,7 @@ input[type="text"], input[type="email"] {
 #reason {
     border-radius: 3px;
 }
+
+form button {
+    margin-left: -35px;
+}
