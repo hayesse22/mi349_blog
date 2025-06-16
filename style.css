@@ -104,6 +104,10 @@ td {
     text-align: center;
 }
 
+.fig-left {
+    float: left;
+}
+
 
 /* About Page */
 
