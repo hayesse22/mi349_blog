@@ -156,11 +156,10 @@ figcaption {
 
 form {
     margin-top: 1rem;
-    display: flex;
-    
 }
 
 form label {
+    margin-top: 1rem;
     font-weight: bold;
     display: block;
 }
