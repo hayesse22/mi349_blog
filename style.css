@@ -108,6 +108,10 @@ td {
     float: right;
 }
 
+figcaption {
+    font-size: 0.7rem;
+}
+
 
 /* About Page */
 
