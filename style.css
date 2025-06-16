@@ -167,3 +167,14 @@ form label {
     display: block;
 }
 
+form input {
+    padding: 10px;
+}
+
+form select {
+    padding: 10px;
+}
+
+form textarea {
+    padding: 10px;
+}
