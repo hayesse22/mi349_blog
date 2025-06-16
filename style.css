@@ -188,3 +188,7 @@ form textarea {
 input[type="text"], input[type="email"] {
     background-color: #fff;
 }
+
+#reason {
+    border-radius: 3px;
+}
