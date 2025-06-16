@@ -104,7 +104,9 @@ td {
     text-align: center;
 }
 
-
+.fig-left {
+    float: right;
+}
 
 
 /* About Page */
