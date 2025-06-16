@@ -18,7 +18,7 @@ header {
     margin: 1rem auto;
     padding: 1rem;
     max-width: 1200px;
-    border-width: 3px #151515;
+    border: 3px black
 }
 
 #header {
