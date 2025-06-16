@@ -195,5 +195,5 @@ input[type="text"], input[type="email"] {
 
 form button {
     margin-left: -175px;
-    padding: 20px;
+    margin-bottom: -35px;
 }
