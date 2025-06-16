@@ -99,6 +99,7 @@ td {
 .blogpost {
     padding: 35px;
     margin: 0;
+    text-align: center;
 }
 
 #newsletter {
