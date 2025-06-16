@@ -15,11 +15,10 @@ header {
     top: 0;
     z-index: 1000;
     border-radius: 10px;
-    border-width: 5px;
+    border-width: 5px black;
     margin: 1rem auto;
     padding: 1rem;
     max-width: 1200px;
-    border-color: black;
 }
 
 #header {
