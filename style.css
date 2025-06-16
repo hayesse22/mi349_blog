@@ -171,23 +171,20 @@ form input {
     padding: 10px;
     margin-top: 6px;
     margin-bottom: 14px;
-    border-radius: 3px;
 }
 
 form select {
     padding: 10px;
     margin-top: 6px;
     margin-bottom: 14px;
-    border-radius: 3px;
 }
 
 form textarea {
     padding: 10px;
     margin-top: 6px;
     margin-bottom: 14px;
-    border-radius: 3px;
 }
 
-#reason {
-    border-radius: 3px;
+input[type="text"], input[type="email"] {
+    background-color: #fff;
 }
