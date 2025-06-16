@@ -153,3 +153,7 @@ figcaption {
     border-bottom: 4px dotted #ccc;
     border-top: 4px dotted #ccc;
 }
+
+form {
+    margin-top: 1rem;
+}
